@@ -1,4 +1,4 @@
-﻿namespace SnakeAndLadderGame
+﻿namespace SnakeAndLadderProblem
 {
     public class program
     {
